@@ -6,7 +6,7 @@ Full-stack software developer
 
 * 🌍  I'm based in Chiang Mai, Thailand
 * ✉️  You can contact me at [sealproton@gmail.com](mailto:sealproton@gmail.com)
-* 🧠  I'm learning Nest.js, Redis
+* 🧠  I'm learning Next.js, Nest.js, Redis
 
 ### Skills
 
