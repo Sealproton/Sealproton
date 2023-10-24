@@ -6,7 +6,7 @@ Full-stack software developer || Former Physiotherapist
 
 * 🌍  I'm based in Chiang Mai, Thailand
 * ✉️  You can contact me at [sealproton@gmail.com](mailto:sealproton@gmail.com)
-* 🧠  I'm learning Go, Next.js, Redis, Docker, k8s
+* 🧠  I'm learning Next.js, Docker, k8s, Redis, Go
 
 ### Skills
 
