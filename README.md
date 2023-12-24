@@ -1,7 +1,7 @@
 Hi 👋 My name is Siripoom Luengsrisakul
 =======================================
 
-Full-stack software developer || Former Physiotherapist
+Full-stack software developer
 -----------------------------
 
 * 🌍  I'm based in Chiang Mai, Thailand
